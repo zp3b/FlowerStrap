@@ -1,8 +1,5 @@
-> [!CAUTION]
-> The only official places to download Flowerstrap is this github any other place is going to be malware.
-
 > [!IMPORTANT]
-> FlowerStrap will never be open sourced and any forks will just be a fork of bloxstrap!
+> Flowerstrap is a open sourced project that has no malware and never will have!
 
-> [!NOTE]
-> Thank you for using Flowerstrap it means the world to me :3 
+> [!CAUTION]
+> This is the only offical place currently to download Flowerstrap.
